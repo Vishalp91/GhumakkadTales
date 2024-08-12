@@ -76,7 +76,7 @@ export default function Footer() {
                             <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase">Share</h2>
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-1">
-                                    <Link to="https://wa.me/?text=Check%20out%20this%20amazing%20website:%20http://localhost:5173/%20to%20document%20and%20share%20your%20travel%20adventures%20globally" target = '_blank' className="inline-flex hover:underline">
+                                    <Link to="https://wa.me/?text=Check%20out%20this%20amazing%20website:%20https://ghumakkadtales.onrender.com%20to%20document%20and%20share%20your%20travel%20adventures%20globally" target = '_blank' className="inline-flex hover:underline">
                                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  strokeWidth="2"  strokeLinecap="round"  strokeLinejoin="round"  className="icon icon-tabler icons-tabler-outline icon-tabler-brand-whatsapp">
                                         <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
                                         <path stroke = "green" d="M3 21l1.65 -3.8a9 9 0 1 1 3.4 2.9l-5.05 .9" />
@@ -86,7 +86,7 @@ export default function Footer() {
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link to="https://www.instagram.com/?url=http://localhost:5173/" target = '_blank' className="inline-flex hover:underline">
+                                    <Link to="https://www.instagram.com/?url=https://ghumakkadtales.onrender.com" target = '_blank' className="inline-flex hover:underline">
                                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  strokeWidth="2"  strokeLinecap="round"  strokeLinejoin="round"  className="icon icon-tabler icons-tabler-outline icon-tabler-brand-instagram">
                                         <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
                                         <path stroke = "deeppink" d="M4 4m0 4a4 4 0 0 1 4 -4h8a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-8a4 4 0 0 1 -4 -4z" />
