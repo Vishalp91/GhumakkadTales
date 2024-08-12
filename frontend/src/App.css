@@ -1,0 +1,36 @@
+@media (min-width: 640px) and (max-width: 768px) {
+    .post {
+      width: 75%;
+    }
+}
+
+@media (max-width : 768px) {
+  .dashboard {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .post {
+      width: 60%;
+    }
+}
+
+@media (min-width: 1024px) {
+    .post {
+      width: 45%;
+    }
+}
+
+
+@media (max-width : 500px) {
+  .add-post {
+    display: none;
+  }
+  .ghumakkad {
+    font-size: x-large;
+  }
+  .tales  {
+    font-size: xx-large;
+  }
+}
